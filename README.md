@@ -21,11 +21,6 @@
 
 Let's build something amazing together! 🚀</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **E-Dating platform for gamers**
-- 🌱 I'm currently learning: **React Native and ThreeJS**
-- 📂 Portfolio: **<a href="codemy.jayadevnair.in" target="_blank">codemy.jayadevnair.in</a>**
 
  **<h3 align="left">Skills</h3>**
 
